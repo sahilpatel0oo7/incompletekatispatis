@@ -1,0 +1,23 @@
+  #b1,
+  #b2,
+  #b3,
+  #b4,
+  #b5,
+  #b6,
+  #b7,
+  #b8,
+  #b9 {
+
+      text-align: center;
+      
+      width: 20px;
+      border-color: blue;
+      border-radius: 8px;
+      margin: 1px;
+  }
+  #k{
+    margin-top: 100px;
+
+    text-align: center;
+  }
+  
